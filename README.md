@@ -2,7 +2,7 @@
 
 Meu nome é Gabriel
 
--Estou estudando alura
+-Estou estudando [alura](https://www.alura.com.br)
 
 -Estou me desenvolvendo na linguagem JavaScript
 
